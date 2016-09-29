@@ -1,0 +1,5 @@
+zaqar-ui (1.0.0~rc1-1) experimental; urgency=medium
+
+  * Initial release. (Closes: #839142)
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 28 Sep 2016 17:06:05 +0200
