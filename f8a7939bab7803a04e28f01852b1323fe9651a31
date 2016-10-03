@@ -1,0 +1,10 @@
+Code-Review+1: Kenji Ishii <ken-ishii@sx.jp.nec.com>
+Code-Review+2: Shu Muto <shu-mutou@rf.jp.nec.com>
+Code-Review+2: Fei Long Wang <flwang@catalyst.net.nz>
+Workflow+1: Fei Long Wang <flwang@catalyst.net.nz>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 27 Sep 2016 21:12:12 +0000
+Reviewed-on: https://review.openstack.org/377167
+Project: openstack/deb-zaqar-ui
+Branch: refs/heads/master
