@@ -1,3 +1,9 @@
+zaqar-ui (1.0.0~rc1-2) unstable; urgency=medium
+
+  * Uploading to unstable.
+
+ -- Thomas Goirand <zigo@debian.org>  Tue, 04 Oct 2016 15:35:52 +0200
+
 zaqar-ui (1.0.0~rc1-1) experimental; urgency=medium
 
   * Initial release. (Closes: #839142)
