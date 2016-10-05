@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Fei Long Wang <flwang@catalyst.net.nz>
+Workflow+1: Fei Long Wang <flwang@catalyst.net.nz>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 22 Sep 2016 22:42:56 +0000
+Reviewed-on: https://review.openstack.org/371314
+Project: openstack/deb-zaqar-ui
+Branch: refs/heads/stable/newton
