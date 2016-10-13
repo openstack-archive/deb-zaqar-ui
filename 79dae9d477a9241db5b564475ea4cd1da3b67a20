@@ -1,0 +1,9 @@
+Code-Review+1: Shu Muto <shu-mutou@rf.jp.nec.com>
+Code-Review+2: Thai Tran <tqtran@us.ibm.com>
+Workflow+1: Thai Tran <tqtran@us.ibm.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 11 Oct 2016 17:39:35 +0000
+Reviewed-on: https://review.openstack.org/382744
+Project: openstack/deb-zaqar-ui
+Branch: refs/heads/stable/newton
