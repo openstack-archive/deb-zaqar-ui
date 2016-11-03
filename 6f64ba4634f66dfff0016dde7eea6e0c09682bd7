@@ -1,0 +1,10 @@
+Code-Review+2: Shu Muto <shu-mutou@rf.jp.nec.com>
+Code-Review+1: Jeremy Liu <liujiong@gohighsec.com>
+Code-Review+2: Fei Long Wang <flwang@catalyst.net.nz>
+Workflow+1: Fei Long Wang <flwang@catalyst.net.nz>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 02 Nov 2016 22:34:09 +0000
+Reviewed-on: https://review.openstack.org/390567
+Project: openstack/deb-zaqar-ui
+Branch: refs/heads/master
