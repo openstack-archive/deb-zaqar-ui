@@ -1,0 +1,11 @@
+Code-Review+2: Shu Muto <shu-mutou@rf.jp.nec.com>
+Code-Review+1: wangxiyuan <wangxiyuan@huawei.com>
+Code-Review+1: wanghao <sxmatch1986@gmail.com>
+Code-Review+2: Feilong Wang <flwang@catalyst.net.nz>
+Workflow+1: Feilong Wang <flwang@catalyst.net.nz>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 16 Feb 2017 04:09:00 +0000
+Reviewed-on: https://review.openstack.org/433511
+Project: openstack/deb-zaqar-ui
+Branch: refs/heads/master
